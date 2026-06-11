@@ -1,2 +1,3 @@
 # nikhil_code
-first repository
+MY first GIT repository
+exited!
